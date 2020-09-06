@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+	background-image: url(https://images.hdqwalls.com/wallpapers/spiderman-miles-lost-in-space-4k-0f.jpg);
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px;
+	background-size: cover;
+	color: white;
+}
+h2, h3{
+	color:white;
+	font-size: 50px;
+}
+
+.btn{
+	color:white;
+	font-size: 30px;
+}
+.button{
+	text-align: right;
+}
+textarea {
+    min-height: 400px;
+}
+.e{
+	/*background-color: salmon;*/
+	padding: 30px;
+	border-radius: 10px;
+	color: darkred;
+	font-weight: bolder;
+	margin-bottom: 20px;
+	font-size: 70%;
+
+	
+
+}
+.e:hover{
+	opacity: .5;
+}
+.e span{
+	margin:auto 20px;
+	
+}
+
+.details{
+	/*background-color: lime;*/
+	color:red;
+	border-bottom: 3px solid red;
+	/*font-size: 40px;*/
+	/*border-color: white;	*/
+
+
+}
+
+.emailbody{
+	color: white;
+	font-size: 40px;
+	margin-top:10px;
+	height: 100vh;
+	padding: 20px; 
+
+}
+.buttons{
+	/*background-color: yellow;*/
+	background: none;
+	border:1px solid blue;
+	border-radius: 3px;
+	text-align: right;
+	margin: 10px;
+	color: white;
+}
+.buttons:hover{
+	background-color: blue;
+}
+nav{
+	display: flex;
+	justify-content: flex-end;
+
+}
+.sender{
+	color:black;
+}
+
+.sub{
+	color: purple;
+	font-weight: bolder;
+	display: inline-flex;
+	float: left;
+}
+
+.body{
+	color: darkred;
+	font-weight: bolder;
+	display: inline-block;
+
+}
+.
+.read{
+	color:black;
+	display: inline-block;
+
+
+}
+
+
+
+#yo{
+	border-radius: 50%;
+	max-width: 100px;
+}
+
+a{
+	color: white;
+}
